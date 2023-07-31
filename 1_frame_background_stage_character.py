@@ -234,4 +234,4 @@ while running:
     pygame.display.update() # 게임 화면을 다시 그리기
     
 
-pygame.quit()
+pygame.quit() 
